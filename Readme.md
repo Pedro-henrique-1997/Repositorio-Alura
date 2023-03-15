@@ -4,7 +4,7 @@
 
 Para rodar este jogo, façao seguinte comando:
 
-**Vai aparecer destacado **
+Nosso **primeiro exemplo** de trecho de texto em markdown.
 
 ```
 npm install
