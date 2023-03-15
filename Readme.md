@@ -4,6 +4,8 @@
 
 Para rodar este jogo, façao seguinte comando:
 
+**Vai aparecer destacado **
+
 ```
 npm install
 ```
