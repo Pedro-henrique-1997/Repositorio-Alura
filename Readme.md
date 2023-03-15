@@ -4,8 +4,9 @@
 
 Para rodar este jogo, façao seguinte comando:
 
-Nosso **primeiro exemplo** de trecho de texto em markdown.
+Destacar a palavra **teste**
 
+ Link do [Google](https://www.google.com.br/). Clique para acessar
 ```
 npm install
 ```
