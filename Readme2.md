@@ -4,4 +4,4 @@ Para aplicar um desses conceitos, **veja isso**
 
 ```composer update```
 
-Clique [aqui] para ver a documentação do composer.(https://getcomposer.org/doc/)
+Clique [aqui](https://getcomposer.org/doc/) para ver a documentação do composer.
