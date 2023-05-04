@@ -1,8 +1,4 @@
 console.log("tá funcionando");
+ 
+ console.log("Mais um teste");
 
-var funcao = (txt) => {
-	var msg = "Exibindo " + txt;
-	return msg;
-}
-
-console.log(funcao("apenas um teste"));
